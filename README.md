@@ -1,5 +1,7 @@
 # Emotion_detection_with_CNN
 
+![emotion_detection](https://github.com/datamagic2020/Emotion_detection_with_CNN/blob/main/emoition_detection.png)
+
 ### Packages need to be installed
 pip install numpy
 pip install opencv-python
